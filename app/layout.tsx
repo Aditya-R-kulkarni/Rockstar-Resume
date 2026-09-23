@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://rockstar-resume-sandy.vercel.app"),
   title: "Aditya Kulkarni | AI, Software & Cybersecurity",
   description:
     "Portfolio of Aditya Kulkarni — Information Science & Engineering graduate building projects across AI, software development, cybersecurity and data.",
