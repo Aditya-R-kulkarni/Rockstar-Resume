@@ -1164,19 +1164,6 @@ function ResumeScene({
                   portfolio.
                 </p>
               </div>
-
-              <a
-                href="/Aditya_Kulkarni_Resume.pdf"
-                target="_blank"
-                rel="noreferrer"
-                className="group flex items-center gap-3 rounded-full border border-red-500/30 bg-red-500/10 px-5 py-3 text-[9px] uppercase tracking-[0.25em] text-white transition-all duration-300 hover:border-red-400 hover:bg-red-500/20"
-              >
-                View Resume
-
-                <span className="text-red-400 transition-transform duration-300 group-hover:translate-x-1">
-                  →
-                </span>
-              </a>
             </div>
           </section>
         </div>
