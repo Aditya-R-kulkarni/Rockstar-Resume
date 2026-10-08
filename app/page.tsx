@@ -1151,20 +1151,6 @@ function ResumeScene({
                 </div>
               </div>
             </div>
-
-            {/* Resume action */}
-            <div className="flex items-center justify-between rounded-[28px] border border-red-500/15 bg-red-500/[0.035] p-7 backdrop-blur-xl sm:col-span-2">
-              <div>
-                <div className="text-[8px] tracking-[0.32em] text-red-500">
-                  FULL DOCUMENT
-                </div>
-
-                <p className="mt-2 text-sm text-white/35">
-                  Keep the complete CV available alongside the
-                  portfolio.
-                </p>
-              </div>
-            </div>
           </section>
         </div>
       </div>
